@@ -66,4 +66,6 @@ python mcqa_demo.py
 | SFT + LoRA           | 44.56     | 65.02         |
 | SFT + RAG            | 43.25     | 63.82         |
 | SFT + LoRA + RAG | **45.52** | **65.70**     |
+
+
 Evaluated with top-*k*=2 retrieved documents per question.
