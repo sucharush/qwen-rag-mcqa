@@ -1,0 +1,7 @@
+transformers==4.51.3
+datasets==3.2.0
+peft==0.15.2
+torch==2.5.1
+faiss-gpu-cu12==1.11.0
+huggingface-hub==0.32.4
+sentence-transformers==3.4.1
